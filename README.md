@@ -1,4 +1,4 @@
-# AI-Enabled Financial Analysis Portfolio
+# AI in Finance Cookbook
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/10_LOo0zek_IPiqdHZzy2iVHoiKj4vxJO?usp=sharing)
