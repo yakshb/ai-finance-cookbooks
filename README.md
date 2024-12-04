@@ -1,27 +1,32 @@
-# AI in Finance Cookbook
+# Gen AI in Finance Cookbook
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/10_LOo0zek_IPiqdHZzy2iVHoiKj4vxJO?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yakshb)
-[![X/Twitter](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://x.com/yaksh_birla)
+[![Twitter/X](https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter)](https://x.com/yaksh_birla)
 
 ## 🚀 Overview
-This repository contains a curated collection of Jupyter and Google Colab notebooks demonstrating the application of AI and Machine Learning in financial analysis. Each notebook is designed to be interactive, well-documented, and ready to use, showcasing practical applications of modern AI techniques in finance.
+This repository is a collection of Jupyter and Google Colab notebooks demonstrating the application of LLMs, AI Agents, RAG and other frameworks in financial analysis and research. Each notebook is designed well-documented, and ready to use, showcasing practical applications of modern AI techniques in finance.
 
 ## 📚 Featured Notebooks
 
 ### Multi-purpose Financial Analyst
-- [**Financial Analyst AI Agent**](notebooks/ai-agents/Anthropic/Claude-FinancialAgent-LlamaIndex.ipynb)
+- [**Stock/Investment Analyst AI Agent**](notebooks/ai-agents/Claude-FMP-Stock-Analyst_(Starter).ipynb)
   - Analyzes key financial metrics and statements using Claude Agents
   - Tool calling, function calling and parallel operations enabled
   - Technologies: Claude API, Financial Modeling Prep
   
 ### Political Trades Tracker
-- [**AI-Driven Analysis of Politicians' Stock Trades**](notebooks/ai-agents/Anthropic/Claude-Political-Trades-Tracker.ipynb)
+- [**AI Agent Analysis of Politicians' Stock Trades**](notebooks/ai-agents/Claude-FMP-Political-Trades-Tracker_(Starter).ipynb)
   - Analyzes key political trades using Claude Agents
   - Technologies: Claude API, Financial Modeling Prep
 
 ### Commodities Tracker
+- [**LLM-Enhanced Commodities Research and Trading Signals**](notebooks/ai-agents/Claude-FMP-Commodities-Tracker_(Starter).ipynb)
+  - Analyzes key commodities against global news using Claude Agents
+  - Technologies: Claude API, Financial Modeling Prep
+
+### Evaluating Financial Insights Across LLMs 
 - [**LLM-Enhanced Commodities Research and Trading Signals**](notebooks/ai-agents/Anthropic/Claude-Commodities-Tracker-LlamaIndex.ipynb)
   - Analyzes key commodities against global news using Claude Agents
   - Technologies: Claude API, Financial Modeling Prep
@@ -39,7 +44,7 @@ This repository contains a curated collection of Jupyter and Google Colab notebo
 notebooks/
 ├── ai_agents/      # AI Agent Implementation notebooks
 ├── multimodal-ai/ # Multimodal AI notebooks
-└── techniques/     # Advanced techniques for portfolio optimization, sentiment analysis, etc.
+└── techniques/     # Techniques for portfolio optimization, backtesting, sentiment analysis, etc.
 ```
 
 ## 📖 Usage Guidelines
