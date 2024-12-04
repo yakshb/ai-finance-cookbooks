@@ -10,26 +10,21 @@ This repository is a collection of Jupyter and Google Colab notebooks demonstrat
 
 ## 📚 Featured Notebooks
 
-### Multi-purpose Financial Analyst
+### Claude & FMP AI Agents
 - [**Stock/Investment Analyst AI Agent**](notebooks/ai-agents/Claude-FMP-Stock-Analyst_(Starter).ipynb)
-  - Analyzes key financial metrics and statements using Claude Agents
+  - Analyzes key financial metrics and statements for any publicly-listed stock using Claude Agents
   - Tool calling, function calling and parallel operations enabled
-  - Technologies: Claude API, Financial Modeling Prep
   
-### Political Trades Tracker
 - [**AI Agent Analysis of Politicians' Stock Trades**](notebooks/ai-agents/Claude-FMP-Political-Trades-Tracker_(Starter).ipynb)
-  - Analyzes key political trades using Claude Agents
-  - Technologies: Claude API, Financial Modeling Prep
+  - Analyzes key stocks that are being traded by politicians   
 
-### Commodities Tracker
 - [**LLM-Enhanced Commodities Research and Trading Signals**](notebooks/ai-agents/Claude-FMP-Commodities-Tracker_(Starter).ipynb)
-  - Analyzes key commodities against global news using Claude Agents
-  - Technologies: Claude API, Financial Modeling Prep
+  - Analyzes key commodities with user-driven insights against global news using Claude Agents
 
-### Evaluating Financial Insights Across LLMs 
-- [**LLM-Enhanced Commodities Research and Trading Signals**](notebooks/ai-agents/Anthropic/Claude-Commodities-Tracker-LlamaIndex.ipynb)
-  - Analyzes key commodities against global news using Claude Agents
-  - Technologies: Claude API, Financial Modeling Prep
+- [**Evaluating Financial Insights Across LLMs**](notebooks/ai-agents/Anthropic/Claude-OAI-Commodities-Eval-Framework.ipynb)
+  - Utilizes the commodities research framework to evaluate Claude Sonnett 3.5 against OpenAI's GPT 4o
+  - Framework can be used across different model providers and financial asset types (stocks, bonds, crypto) 
+
 
 
 ## 🚗 Getting Started
